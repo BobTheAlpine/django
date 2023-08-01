@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "74565f83-5f98-4109-877e-0527b16db033",
+		"name": "Django test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28184656"
+	},
+	"item": [
+		{
+			"name": "get_polls",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}

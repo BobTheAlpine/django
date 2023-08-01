@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e631c48-bcf7-4252-a8c1-12f43eea8f62" name="Changes" comment="Commiting files">
+      <change afterPath="$PROJECT_DIR$/../.idea/DNA Insight Ecosystem - Deep View Frontend.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FastAPI_CRUD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/example/cypress.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/example/cypress/e2e/spec.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/example/cypress/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/example/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/example/cypress/support/e2e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/example/something.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/myProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/.idea/testing_cypress.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/e2e/homePage.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/e2e/test.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/fixtures/example.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/screenshots/test.cy.js/Click button abd loaded page (failed).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/support/commands.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/support/e2e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/videos/homePage.cy.js.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/cypress/videos/test.cy.js.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/cypress" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/cypress.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/cypress.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/extract-zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/extract-zip.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/extract-zip.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/is-ci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/is-ci.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/is-ci.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/node-which" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/node-which.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/node-which.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/rimraf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/rimraf.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/rimraf.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/semver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/semver.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-conv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-conv.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-conv.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-sign" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-sign.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-sign.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-verify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-verify.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/sshpk-verify.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/uuid" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/uuid.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/node_modules/.bin/uuid.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angural_testing/testing_cypress/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../docker_test/welcome-to-docker" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/.idea/myapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/.idea/myapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/migrations/0002_ceva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myapi/myapp/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/.." source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PvDcIEqRn1MD21Zfn0cDNM3wK9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/S279128/Documents/Projects/mysite",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.other",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\miniconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.10" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e631c48-bcf7-4252-a8c1-12f43eea8f62" name="Changes" comment="" />
+      <created>1684328740168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684328740168</updated>
+      <workItem from="1684926625611" duration="66000" />
+      <workItem from="1684927181842" duration="4076000" />
+      <workItem from="1684998913558" duration="16000" />
+      <workItem from="1690894380899" duration="1086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commiting files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commiting files" />
+  </component>
+</project>
